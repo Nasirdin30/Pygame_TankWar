@@ -97,10 +97,7 @@ tank-battle/
 │   └── tank_war.spec        # PyInstaller spec file
 ├── models/                  # AI model files
 ├── requirements.txt         # Dependency list
-├── start_training.py        # Training script
-├── test_training.py         # Training test script
 ├── AI训练需求.md            # AI training requirements (Chinese)
-├── AI训练说明.md            # AI training documentation (Chinese)
 ├── tank_war.exe             # Packaged executable file
 └── README.md                # Project documentation
 ```
