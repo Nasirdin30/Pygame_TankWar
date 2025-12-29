@@ -1,0 +1,13 @@
+0,0,0,0,B,B,0,0,B,0,0,0,0
+0,F,F,B,B,0,0,0,B,0,0,0,0
+F,F,F,F,F,F,F,F,B,B,0,0,0
+F,SU,B,F,B,B,B,F,F,F,F,B,S
+F,F,B,F,F,F,SU,F,F,B,SL,B,0
+0,F,F,B,SD,F,F,F,F,B,0,B,0
+0,B,B,B,B,B,F,F,B,B,BL,F,F
+SR,SU,B,B,0,0,0,B,BU,0,0,0,F
+0,B,0,B,0,SD,BD,BU,F,F,B,B,F
+0,B,0,0,BR,B,BU,F,F,B,0,0,F
+0,B,B,BL,BR,BU,F,F,BD,F,B,F,F
+0,0,B,0,F,0,0,0,B,F,BU,F,0
+0,0,BU,0,0,0,0,0,0,F,F,F,0
