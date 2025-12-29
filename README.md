@@ -43,6 +43,10 @@ You can also double-click the packaged program tank_war.exe to run directly, whi
 
 ### Game Controls
 
+menu
+| Select | up, down |
+| Confirm | ENTER |
+
 Default Controls
 
 |          | Player 1         | Player 2             |
@@ -51,6 +55,12 @@ Default Controls
 | Shooting | `space`, single `C` | `num_0`, single `num_1` |
 
 Or modify in settings.py
+
+edit map
+| place selected object | mouse_right_down |
+| select object         | mouse_right_down |
+| non select            | mouse_left_down  |
+| confirm and exit      | 'ESC'            |
 
 ### Edit and Add Maps
 
